@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">ME_APP_DEMO</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="app_name">Vorlesungsbingo</string>
+    <string name="username">Benutzername</string>
+    <string name="password">Passwort</string>
+    <string name="signin">Anmelden</string>
     <string name="action_settings">Settings</string>
     <string name="title_activity_main__menue">Main_Menue</string>
 

@@ -7,12 +7,13 @@
 			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="C:/Studium/Mobile Engineering/adt-bundle-windows-x86_64-20140702/sdk/platforms"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
-	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
-	<classpathentry kind="lib" path="C:/Users/mspancken7020/git/ME_App_Project/ME_APP_DEMO/libs/Parse-1.8.0.jar">
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES">
 		<attributes>
-			<attribute name="javadoc_location" value="file:/C:/Studium/Mobile%20Engineering/Workspace/Test_Parse/libs/Parse-1.7.1-javadoc/"/>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="C:/Users/mspancken7020/git/ME_App_Project/ME_APP_DEMO/libs"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry kind="lib" path="C:/Studium/Mobile Engineering/Workspace/ME_APP_DEMO/libs/Parse-1.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Studium/Mobile Engineering/Workspace/ME_APP_DEMO/libs/bolts-android-1.1.3.jar"/>
 	<classpathentry kind="output" path="bin/classes"/>
 </classpath>
