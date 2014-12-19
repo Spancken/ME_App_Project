@@ -1649,7 +1649,7 @@ containing a value of this type.
         public static final int action_mode_bar=0x7f090030;
         public static final int action_mode_bar_stub=0x7f09002f;
         public static final int action_mode_close_button=0x7f090022;
-        public static final int action_settings=0x7f090048;
+        public static final int action_settings=0x7f090041;
         public static final int activity_chooser_view_content=0x7f090023;
         public static final int always=0x7f090014;
         public static final int beginning=0x7f09001b;
@@ -1662,9 +1662,6 @@ containing a value of this type.
         public static final int disableHome=0x7f09000d;
         public static final int dropdown=0x7f09001a;
         public static final int edit_query=0x7f090035;
-        public static final int email=0x7f090044;
-        public static final int email_login_form=0x7f090043;
-        public static final int email_sign_in_button=0x7f090047;
         public static final int end=0x7f09001c;
         public static final int expand_activities_button=0x7f090024;
         public static final int expanded_menu=0x7f09002a;
@@ -1675,14 +1672,10 @@ containing a value of this type.
         public static final int image=0x7f090025;
         public static final int listMode=0x7f09000a;
         public static final int list_item=0x7f090027;
-        public static final int login=0x7f090046;
-        public static final int login_form=0x7f090042;
-        public static final int login_progress=0x7f090041;
         public static final int middle=0x7f09001d;
         public static final int never=0x7f090017;
         public static final int none=0x7f09000f;
         public static final int normal=0x7f09000b;
-        public static final int password=0x7f090045;
         public static final int progress_circular=0x7f090007;
         public static final int progress_horizontal=0x7f090008;
         public static final int radio=0x7f09002d;
@@ -1759,13 +1752,12 @@ containing a value of this type.
         public static final int abc_search_dropdown_item_icons_2line=0x7f030014;
         public static final int abc_search_view=0x7f030015;
         public static final int abc_simple_dropdown_hint=0x7f030016;
-        public static final int activity_main=0x7f030017;
-        public static final int login=0x7f030018;
-        public static final int main__menue=0x7f030019;
-        public static final int support_simple_spinner_dropdown_item=0x7f03001a;
+        public static final int login=0x7f030017;
+        public static final int main__menue=0x7f030018;
+        public static final int support_simple_spinner_dropdown_item=0x7f030019;
     }
     public static final class menu {
-        public static final int main=0x7f0c0000;
+        public static final int login=0x7f0c0000;
         public static final int main__menue=0x7f0c0001;
     }
     public static final class string {
