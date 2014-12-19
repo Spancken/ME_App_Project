@@ -9,7 +9,7 @@
 	</classpathentry>
 	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
 	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
-	<classpathentry exported="true" kind="lib" path="C:/Studium/Mobile Engineering/Workspace/Test_Parse/libs/Parse-1.7.1.jar">
+	<classpathentry kind="lib" path="C:/Users/mspancken7020/git/ME_App_Project/ME_APP_DEMO/libs/Parse-1.8.0.jar">
 		<attributes>
 			<attribute name="javadoc_location" value="file:/C:/Studium/Mobile%20Engineering/Workspace/Test_Parse/libs/Parse-1.7.1-javadoc/"/>
 		</attributes>
